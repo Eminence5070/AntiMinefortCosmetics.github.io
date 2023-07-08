@@ -43,6 +43,7 @@ div {
 }
 
 a:hover {
+background-color: rgba(137, 137, 218, 0.1);
   transition-duration: 0.20s;
   transform: scale(1.05);
 }
